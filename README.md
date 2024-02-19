@@ -4,4 +4,4 @@ shell scripiting topics
 
 write shell file
 .......................
-executing command
+executing command in shell
