@@ -7,3 +7,5 @@ write shell file
 .......................
 
 executing command in shell
+
+learning shell script topics
