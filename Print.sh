@@ -11,4 +11,4 @@ echo is for printing
 35 cyient
 36 cyan
 
-\e[0m if to disable color
+\e[0m if to disable colorecho
